@@ -8,15 +8,6 @@ def asia(line:list):
     
     return a
 
-
-a = ["안녕하세요.","선문대학교","컴퓨터 공학부", "학생입니다."]
-for i in a: print(i, )
-
-print('안녕하세요.')
-print('선문대학교')
-print("컴퓨터공학부")
-print("학생입니다.")
-
 import numpy as np
 import cv2
 import os
